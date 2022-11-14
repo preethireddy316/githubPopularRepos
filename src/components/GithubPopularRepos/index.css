@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.lang-container{
+    display: flex;
+    list-style-type: none;
+    flex-direction: row;
+}
+.repo-container{
+    display: flex;
+    list-style-type: none;
+
+}
